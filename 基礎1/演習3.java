@@ -1,6 +1,5 @@
 package 基礎1;
 
-
 public class 演習3 {
     public static void main(String[] args) {
         int price =1200;
