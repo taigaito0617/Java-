@@ -1,12 +1,8 @@
-package 基礎2.演習5.演習5_3;
+package 演習5_3;
 
 public class MyService extends SecureService{
     @Override
     protected void execute(){
-        System.out.println("実際の処理の内容");
-
+        System.out.println("処理の実行内容");
     }
-
-    
-    
 }

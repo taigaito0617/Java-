@@ -1,4 +1,4 @@
-package 基礎2.演習5.演習5_2;
+package 演習5_2;
 
 public class Main {
     public static void main(String[] args) {
